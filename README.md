@@ -1,6 +1,8 @@
 # 💫 About Me:
 Cursando Ciência da Computação pela Dom Helder no periodo de 2020 até 2024 como bolsista integral. Sou Desenvolvedor web com foco em React.js, HTML, CSS e JavaScript para o front end e para o back-end Node.js, nest.js alem de java com Spring Boot. Como experiencia venho fazendo trabalhos de freelancer em sites e programas, alem de participar de projetos de criação de aplicativos na faculdade Dom Helder. Tenho experiencia como estagiário em suporte de TI, onde fornecia atendimento ao cliente, resolução de problemas complexos, Excel e manutenções em softwares e hardwares ao longo de um ano. Realizer esse estágio me trouxe as habilidades de prestar serviço com foco no cliente, trabalhar em equipe e comunicações<br><br>Orgulho-me de ser extremamente autodidata, sempre buscando aprimorar meus conhecimentos e habilidades de forma independente. Minha formação no Colégio Militar Tiradentes NSV(2019) me proporcionou disciplina, excelente capacidade de trabalho em equipe e habilidade para aprender rapidamente.<br><br>Com determinação e paixão pela tecnologia, busco constantemente me aprimorar e contribuir para o crescimento e sucesso de minha equipe e organização. Estou sempre aberto a novas oportunidades e conexões que possam enriquecer minha trajetória profissional e pessoal.
 
+# Visite meu site para mais informações
+https://gabrielvidigal.netlify.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-vidigal-5103a0218/) 
